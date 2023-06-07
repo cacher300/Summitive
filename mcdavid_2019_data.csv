@@ -1,0 +1,83 @@
+date,goals,shots,shooting_pct,opp_id,opp_name,opp_ga_per_gp,scored
+2023-04-13,0,0,0.0,55,Seattle Kraken,3.073,0
+2023-04-11,0,2,0.0,55,Seattle Kraken,3.073,0
+2023-04-08,0,0,0.0,25,Dallas Stars,2.622,0
+2023-04-06,0,2,0.0,26,Los Angeles Kings,3.098,0
+2023-04-04,0,1,0.0,18,Nashville Predators,2.878,0
+2023-04-03,0,1,0.0,30,Minnesota Wild,2.671,0
+2023-04-01,0,2,0.0,30,Minnesota Wild,2.671,0
+2023-03-30,0,0,0.0,28,San Jose Sharks,3.841,0
+2023-03-28,0,0,0.0,22,Edmonton Oilers,3.122,0
+2023-03-25,0,2,0.0,22,Edmonton Oilers,3.122,0
+2023-03-23,0,0,0.0,20,Calgary Flames,3.012,0
+2023-03-21,0,0,0.0,23,Vancouver Canucks,3.61,0
+2023-03-19,0,1,0.0,29,Columbus Blue Jackets,4.012,0
+2023-03-16,0,1,0.0,20,Calgary Flames,3.012,0
+2023-03-14,0,2,0.0,4,Philadelphia Flyers,3.366,0
+2023-03-12,0,2,0.0,19,St. Louis Blues,3.634,0
+2023-03-11,0,0,0.0,12,Carolina Hurricanes,2.561,0
+2023-03-09,0,1,0.0,14,Tampa Bay Lightning,3.073,0
+2023-03-07,0,0,0.0,13,Florida Panthers,3.317,0
+2023-03-05,0,2,0.0,8,Montréal Canadiens,3.72,0
+2023-03-03,0,0,0.0,1,New Jersey Devils,2.707,0
+2023-03-01,0,0,0.0,12,Carolina Hurricanes,2.561,0
+2023-02-27,0,1,0.0,21,Colorado Avalanche,2.72,0
+2023-02-25,0,0,0.0,25,Dallas Stars,2.622,0
+2023-02-23,0,0,0.0,20,Calgary Flames,3.012,0
+2023-02-21,0,1,0.0,16,Chicago Blackhawks,3.646,0
+2023-02-18,0,0,0.0,14,Tampa Bay Lightning,3.073,0
+2023-02-16,0,0,0.0,28,San Jose Sharks,3.841,0
+2023-02-12,0,1,0.0,24,Anaheim Ducks,4.085,0
+2023-02-09,0,0,0.0,30,Minnesota Wild,2.671,0
+2023-02-07,0,1,0.0,18,Nashville Predators,2.878,0
+2023-01-28,0,2,0.0,2,New York Islanders,2.646,0
+2023-01-27,0,0,0.0,3,New York Rangers,2.634,0
+2023-01-24,0,0,0.0,1,New Jersey Devils,2.707,0
+2023-01-22,0,1,0.0,53,Arizona Coyotes,3.598,0
+2023-01-21,0,0,0.0,15,Washington Capitals,3.183,0
+2023-01-19,0,2,0.0,17,Detroit Red Wings,3.354,0
+2023-01-16,0,0,0.0,25,Dallas Stars,2.622,0
+2023-01-14,0,3,0.0,22,Edmonton Oilers,3.122,0
+2023-01-12,0,0,0.0,13,Florida Panthers,3.317,0
+2023-01-07,0,0,0.0,26,Los Angeles Kings,3.098,0
+2023-01-05,0,2,0.0,5,Pittsburgh Penguins,3.207,0
+2023-01-02,0,1,0.0,21,Colorado Avalanche,2.72,0
+2022-12-31,0,1,0.0,18,Nashville Predators,2.878,0
+2022-12-28,0,3,0.0,24,Anaheim Ducks,4.085,0
+2022-12-27,1,1,100.0,26,Los Angeles Kings,3.098,1
+2022-12-23,0,0,0.0,19,St. Louis Blues,3.634,0
+2022-12-21,0,1,0.0,53,Arizona Coyotes,3.598,0
+2022-12-19,0,2,0.0,7,Buffalo Sabres,3.622,0
+2022-12-17,0,3,0.0,2,New York Islanders,2.646,0
+2022-12-15,0,1,0.0,16,Chicago Blackhawks,3.646,0
+2022-12-13,0,1,0.0,52,Winnipeg Jets,2.732,0
+2022-12-11,0,2,0.0,6,Boston Bruins,2.122,0
+2022-12-09,0,3,0.0,4,Philadelphia Flyers,3.366,0
+2022-12-07,0,0,0.0,3,New York Rangers,2.634,0
+2022-12-05,0,0,0.0,6,Boston Bruins,2.122,0
+2022-12-03,0,2,0.0,17,Detroit Red Wings,3.354,0
+2022-12-01,0,2,0.0,5,Pittsburgh Penguins,3.207,0
+2022-11-28,0,1,0.0,29,Columbus Blue Jackets,4.012,0
+2022-11-26,0,1,0.0,23,Vancouver Canucks,3.61,0
+2022-11-25,0,0,0.0,55,Seattle Kraken,3.073,0
+2022-11-23,0,3,0.0,9,Ottawa Senators,3.293,0
+2022-11-21,0,3,0.0,23,Vancouver Canucks,3.61,0
+2022-11-19,0,1,0.0,22,Edmonton Oilers,3.122,0
+2022-11-17,0,1,0.0,53,Arizona Coyotes,3.598,0
+2022-11-15,0,2,0.0,28,San Jose Sharks,3.841,0
+2022-11-12,0,3,0.0,19,St. Louis Blues,3.634,0
+2022-11-10,0,3,0.0,7,Buffalo Sabres,3.622,0
+2022-11-08,0,1,0.0,10,Toronto Maple Leafs,2.683,0
+2022-11-05,0,0,0.0,8,Montréal Canadiens,3.72,0
+2022-11-03,0,1,0.0,9,Ottawa Senators,3.293,0
+2022-11-01,0,3,0.0,15,Washington Capitals,3.183,0
+2022-10-30,0,1,0.0,52,Winnipeg Jets,2.732,0
+2022-10-28,0,0,0.0,24,Anaheim Ducks,4.085,0
+2022-10-25,0,0,0.0,28,San Jose Sharks,3.841,0
+2022-10-24,0,2,0.0,10,Toronto Maple Leafs,2.683,0
+2022-10-22,0,0,0.0,21,Colorado Avalanche,2.72,0
+2022-10-20,0,2,0.0,52,Winnipeg Jets,2.732,0
+2022-10-18,0,0,0.0,20,Calgary Flames,3.012,0
+2022-10-15,0,0,0.0,55,Seattle Kraken,3.073,0
+2022-10-13,0,3,0.0,16,Chicago Blackhawks,3.646,0
+2022-10-11,0,2,0.0,26,Los Angeles Kings,3.098,0
